@@ -1,3 +1,5 @@
+# A simple question answer bot runs on terminal via openai api key
+
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
