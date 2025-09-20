@@ -15,3 +15,5 @@ while True:
     result = model.invoke(user_input)
     print("AI: ", result.content)
     
+
+
